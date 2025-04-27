@@ -91,7 +91,7 @@ if (isset($_POST['update'])) {
 
 
 
-# this is the file for xampp(the output)
+# this is the file for xampp(the working output in local host)
 <?php
 // Connect to Database
 $conn = new mysqli("localhost", "root", "", "dbContacts");
