@@ -1,5 +1,3 @@
-
-
 # this is the original link up to the website
 
 <?php
